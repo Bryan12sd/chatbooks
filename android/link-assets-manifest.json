@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "App/Assets/Fonts/icomoon.ttf",
+      "sha1": "306168e7b8fda904d345ee869d72fd0ba99deb63"
+    },
+    {
+      "path": "App/Assets/Fonts/Telefonica-Bold.otf",
+      "sha1": "c23bdf44651e0e7175f074ff58190e47019386fe"
+    },
+    {
+      "path": "App/Assets/Fonts/Telefonica-ExtraLight.otf",
+      "sha1": "1d20f2d1c3228079b8ae1ed89ed856bf5a3a3b23"
+    },
+    {
+      "path": "App/Assets/Fonts/Telefonica-Light.otf",
+      "sha1": "25dc7001271ce7bf7565173348d68d721fdf54c1"
+    },
+    {
+      "path": "App/Assets/Fonts/Telefonica-Regular.otf",
+      "sha1": "a6999297f4e97a1fcbb0711cbdb254096263e638"
+    }
+  ]
+}
