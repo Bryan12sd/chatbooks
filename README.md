@@ -6,6 +6,28 @@ Este proyecto demuestra conocimientos en consumo de APIs, manejo de estado, rend
 
 ---
 
+## Instalación
+
+```bash
+git clone https://github.com/Bryan12sd/chatbooks.git
+```
+
+```bash
+cd chatbooks
+```
+
+```bash
+npm install
+```
+
+```bash
+npx react-native run-android
+```
+
+```bash
+npx react-native run-ios
+```
+
 ## Características
 
 - Consumo de APIs REST usando **fetch / axios**.
