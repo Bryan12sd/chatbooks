@@ -49,27 +49,6 @@ Esto permite una experiencia básica **offline-first**.
 
 ---
 
-## Instalación
-
-```bash
-git clone https://github.com/tu-usuario/react-native-api-viewer.git
-```
-
-```bash
-cd chatbooks
-```
-
-```bash
-npm install
-```
-
-```bash
-npx react-native run-android
-```
-
-```bash
-npx react-native run-ios
-```
 
 ## Objetivo del Proyecto
 
